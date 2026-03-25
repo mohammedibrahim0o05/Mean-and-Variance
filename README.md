@@ -1,7 +1,7 @@
 #  Mean and variance of a discrete  distribution
 
-## Name : Kamalesh Y
-## Roll no : 212223243001
+## Name : Mohammed Ibrahim MN
+## Roll no : 212223100034
 
 
 # Aim : 
